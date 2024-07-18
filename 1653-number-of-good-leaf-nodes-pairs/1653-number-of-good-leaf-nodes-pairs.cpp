@@ -1,64 +1,58 @@
+// //**
+//  * Definition for a binary tree node.
+//  * struct TreeNode {
+//  *     int val;
+//  *     TreeNode *left;
+//  *     TreeNode *right;
+//  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+//  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+//  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+//  * };
+//  */
 class Solution {
 public:
+      void solve(TreeNode* root,  unordered_map<TreeNode*,vector<TreeNode*>>&m,set<TreeNode*>&leaf){
+       if(root->left==nullptr && root->right==nullptr){
+            leaf.insert(root); return ;
+       }
+      if(root->left){
+        m[root->left].push_back(root);
+        m[root].push_back(root->left);
+        solve(root->left,m,leaf);
+      }
+      if(root->right){
+         m[root->right].push_back(root);
+         m[root].push_back(root->right);
+        solve(root->right,m,leaf);
+      }
 
-    void makeGraph(TreeNode* root, TreeNode* prev, unordered_map<TreeNode*, vector<TreeNode*>>& adj, 
-                    unordered_set<TreeNode*>& st) {
-
-        if(root == NULL) {
-            return;
-        }
-
-        if(root->left == NULL && root->right == NULL) { 
-            st.insert(root);
-        }
-
-        if(prev != NULL) {
-            adj[root].push_back(prev);
-            adj[prev].push_back(root);
-        }
-
-        makeGraph(root->left, root, adj, st);
-        makeGraph(root->right, root, adj, st);
-
-    }
-
+      }
+    
     int countPairs(TreeNode* root, int distance) {
-        unordered_map<TreeNode*, vector<TreeNode*>> adj; 
-        unordered_set<TreeNode*> st; //leaf nodes
-
-        makeGraph(root, NULL, adj, st);
-
-        int count = 0;
-
-        for(auto &leaf : st) {
-
-          
-            queue<TreeNode*> que;
-            unordered_set<TreeNode*> visited;
-            que.push(leaf);
-            visited.insert(leaf);
-
-
-            for(int level = 0; level <= distance; level++) { 
-                int size = que.size();
-                while(size--) { 
-                    TreeNode* curr = que.front();
-                    que.pop();
-
-                    if(curr != leaf && st.count(curr)) { 
-                        count++;
-                    }
-
-                    for(auto &ngbr : adj[curr]) {
-                        if(!visited.count(ngbr)) {
-                            que.push(ngbr);
-                            visited.insert(ngbr);
-                        }
-                    }
+         set<TreeNode*>leaf;
+         if(distance<=1) return 0;
+         unordered_map<TreeNode*,vector<TreeNode*>>m;
+         solve(root,m,leaf); 
+         int ans=0;
+         for(auto & it:leaf){
+            TreeNode*src=it;
+           queue<tuple<TreeNode*,int>>q;
+           q.emplace(src,0);
+            set<TreeNode*>vis; vis.insert(src);
+           while(q.size()>0){
+             auto[node,steps]=q.front(); q.pop();
+             if(steps>distance) continue;
+             if(leaf.find(node)!=leaf.end() && src!=node) {
+                ans++;
+             }
+             for(auto it:m[node]){
+                if(vis.find(it)==vis.end()){
+                   vis.insert(it); q.emplace(it,steps+1);
                 }
-            }
-        }
-        return count/2;
+             }
+          }
+         }
+         return (ans)/2;
+
     }
 };
-
