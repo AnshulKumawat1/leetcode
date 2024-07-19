@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
+| [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Heap (Priority Queue)
 |  |
@@ -43,5 +45,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 <!---LeetCode Topics End-->
