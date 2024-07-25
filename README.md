@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshulKumawat1/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2845-find-the-value-of-the-partition](https://github.com/AnshulKumawat1/leetcode/tree/master/2845-find-the-value-of-the-partition) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshulKumawat1/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Tree
 |  |
 | ------- |
@@ -60,5 +62,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3189-find-champion-ii) |
+## String
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
