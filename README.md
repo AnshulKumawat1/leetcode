@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
+| [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 ## Binary Tree
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Breadth-First Search
 |  |
