@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3189-find-champion-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3189-find-champion-ii) |
 ## String
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
