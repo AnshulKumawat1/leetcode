@@ -1,52 +1,41 @@
-class Solution
-{
-    int mod = 1e9 + 7;
-
+class Solution {
 public:
-    int countPaths(int n, vector<vector<int>> &roads)
-    {
-        vector<vector<pair<int, int>>> adj(n);
-        for (int i = 0; i < roads.size(); i++)
-        {
-            // {u, v, w}
-            adj[roads[i][0]].push_back({roads[i][1], roads[i][2]});
-            adj[roads[i][1]].push_back({roads[i][0], roads[i][2]});
+   const int mod=1e9+7;
+    int countPaths(int n, vector<vector<int>>& roads) {
+        vector<pair<long long ,long long >>adj[n];
+        for(auto it :roads){
+            adj[it[0]].push_back({it[1],it[2]});
+            adj[it[1]].push_back({it[0],it[2]});
         }
-        vector<long long> weight(n, 1e15);
-        vector<int> way(n, 0);
-        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
-        pq.push({0, 0});
-        weight[0] = 0;
-        way[0] = 1;
-        while (!pq.empty())
-        {
-            auto it = pq.top();
+        priority_queue<pair<long long ,long long >,vector<pair<long long ,long long >>,greater<pair<long long ,long long >>>pq;
+
+        vector<long long >dist(n,1e15),ways(n,0);
+        dist[0]=0;
+        ways[0]=1;
+        pq.push({0,0});
+
+        while(!pq.empty()){
+            long long  dis=pq.top().first;
+        long long  node=pq.top().second;
             pq.pop();
+            if(node==n-1) break;
 
-            long long dist = it.first;
-            int node = it.second;
+            for(auto it :adj[node]){
+                  long long adjNode=it.first;
+                  long long  edW=it.second;
 
-            if (node == n - 1)
-            {
-                break;
-            }
-            for (auto &&neighbour : adj[node])
-            {
-                int newnode = neighbour.first;
-                long long newdist = neighbour.second;
+                  if(dis+edW <dist[adjNode]){
+                    dist[adjNode]=dis+edW;
+                    pq.push({dis+edW,adjNode});
+                    ways[adjNode]=ways[node];
 
-                if (newdist + dist < weight[newnode])
-                {
-                    weight[newnode] = newdist + dist;
-                    way[newnode] = way[node];
-                    pq.push({newdist + dist, newnode});
-                }
-                else if (newdist + dist == weight[newnode])
-                {
-                    way[newnode] = (way[newnode] + way[node] * 1LL) % mod;
-                }
+                  }
+                  else if(dis+edW==dist[adjNode]){
+                         ways[adjNode]=((ways[adjNode]*1ll)%mod+ways[node]*1LL)%mod;
+                  }
             }
         }
-        return way[n - 1];
+    
+    return ways[n-1]%mod;
     }
 };
