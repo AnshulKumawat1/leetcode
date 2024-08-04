@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
+| [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Binary Indexed Tree
 |  |
@@ -189,5 +192,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
