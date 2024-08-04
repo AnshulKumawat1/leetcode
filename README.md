@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1252-break-a-palindrome](https://github.com/AnshulKumawat1/leetcode/tree/master/1252-break-a-palindrome) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
+| [1252-break-a-palindrome](https://github.com/AnshulKumawat1/leetcode/tree/master/1252-break-a-palindrome) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 ## Binary Indexed Tree
 |  |
