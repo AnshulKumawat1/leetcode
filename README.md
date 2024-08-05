@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/AnshulKumawat1/leetcode/tree/master/1511-count-number-of-teams) |
 ## Union Find
@@ -189,18 +192,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
