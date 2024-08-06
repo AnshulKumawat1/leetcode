@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2845-find-the-value-of-the-partition](https://github.com/AnshulKumawat1/leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3189-find-champion-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## String
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
+| [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Two Pointers
 |  |
 | ------- |
