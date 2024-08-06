@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2845-find-the-value-of-the-partition](https://github.com/AnshulKumawat1/leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## String
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/AnshulKumawat1/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Dynamic Programming
 |  |
 | ------- |
