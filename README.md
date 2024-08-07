@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-find-all-people-with-secret](https://github.com/AnshulKumawat1/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [3189-find-champion-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3189-find-champion-ii) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnshulKumawat1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 ## Greedy
 |  |
 | ------- |
