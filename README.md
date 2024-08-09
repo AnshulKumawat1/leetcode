@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/AnshulKumawat1/leetcode/tree/master/0176-second-highest-salary) |
 | [1625-group-sold-products-by-the-date](https://github.com/AnshulKumawat1/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/AnshulKumawat1/leetcode/tree/master/1670-patients-with-a-condition) |
 <!---LeetCode Topics End-->
