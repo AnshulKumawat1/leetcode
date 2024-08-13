@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
+| [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Counting
