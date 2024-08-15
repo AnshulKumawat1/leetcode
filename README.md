@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1252-break-a-palindrome](https://github.com/AnshulKumawat1/leetcode/tree/master/1252-break-a-palindrome) |
+| [1517-restore-the-array](https://github.com/AnshulKumawat1/leetcode/tree/master/1517-restore-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AnshulKumawat1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AnshulKumawat1/leetcode/tree/master/1511-count-number-of-teams) |
+| [1517-restore-the-array](https://github.com/AnshulKumawat1/leetcode/tree/master/1517-restore-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AnshulKumawat1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnshulKumawat1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
