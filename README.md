@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-market-analysis-i](https://github.com/AnshulKumawat1/leetcode/tree/master/1268-market-analysis-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/AnshulKumawat1/leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/AnshulKumawat1/leetcode/tree/master/1670-patients-with-a-condition) |
+| [1801-average-time-of-process-per-machine](https://github.com/AnshulKumawat1/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Design
 |  |
 | ------- |
