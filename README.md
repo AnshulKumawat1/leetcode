@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnshulKumawat1/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AnshulKumawat1/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
 ## Prefix Sum
 |  |
@@ -297,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
