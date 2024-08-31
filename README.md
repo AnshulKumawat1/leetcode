@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/AnshulKumawat1/leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -323,4 +324,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
