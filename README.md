@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/AnshulKumawat1/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/AnshulKumawat1/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
+| [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1447-jump-game-iv](https://github.com/AnshulKumawat1/leetcode/tree/master/1447-jump-game-iv) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnshulKumawat1/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/AnshulKumawat1/leetcode/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sorting
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/AnshulKumawat1/leetcode/tree/master/1511-count-number-of-teams) |
 | [1517-restore-the-array](https://github.com/AnshulKumawat1/leetcode/tree/master/1517-restore-the-array) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 ## Database
 |  |
 | ------- |
@@ -347,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Backtracking
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
