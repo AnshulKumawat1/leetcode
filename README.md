@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 ## Data Stream
 |  |
 | ------- |
@@ -355,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
