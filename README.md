@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3518-maximum-multiplication-score](https://github.com/AnshulKumawat1/leetcode/tree/master/3518-maximum-multiplication-score) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AnshulKumawat1/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2755-extra-characters-in-a-string](https://github.com/AnshulKumawat1/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3518-maximum-multiplication-score](https://github.com/AnshulKumawat1/leetcode/tree/master/3518-maximum-multiplication-score) |
 ## Shortest Path
 |  |
 | ------- |
