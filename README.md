@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
+| [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 ## Data Stream
 |  |
 | ------- |
@@ -369,4 +373,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
