@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AnshulKumawat1/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Bitmask
 |  |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/AnshulKumawat1/leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Stack
 |  |
