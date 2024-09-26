@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/AnshulKumawat1/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AnshulKumawat1/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2832-find-the-longest-equal-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2832-find-the-longest-equal-subarray) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/AnshulKumawat1/leetcode/tree/master/2636-maximum-subsequence-score) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2213-find-all-people-with-secret](https://github.com/AnshulKumawat1/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/AnshulKumawat1/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [2845-find-the-value-of-the-partition](https://github.com/AnshulKumawat1/leetcode/tree/master/2845-find-the-value-of-the-partition) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AnshulKumawat1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
+| [2636-maximum-subsequence-score](https://github.com/AnshulKumawat1/leetcode/tree/master/2636-maximum-subsequence-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 ## Binary Indexed Tree
