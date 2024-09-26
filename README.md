@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnshulKumawat1/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/AnshulKumawat1/leetcode/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
 ## Data Stream
 |  |
