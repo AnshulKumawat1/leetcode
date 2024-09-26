@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/AnshulKumawat1/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
@@ -380,4 +382,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
