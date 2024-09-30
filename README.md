@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
+| [0202-happy-number](https://github.com/AnshulKumawat1/leetcode/tree/master/0202-happy-number) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshulKumawat1/leetcode/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0475-heaters](https://github.com/AnshulKumawat1/leetcode/tree/master/0475-heaters) |
 | [0985-bag-of-tokens](https://github.com/AnshulKumawat1/leetcode/tree/master/0985-bag-of-tokens) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnshulKumawat1/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
