@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/AnshulKumawat1/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2727-number-of-senior-citizens](https://github.com/AnshulKumawat1/leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/AnshulKumawat1/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AnshulKumawat1/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Topological Sort
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/AnshulKumawat1/leetcode/tree/master/0155-min-stack) |
 | [0456-132-pattern](https://github.com/AnshulKumawat1/leetcode/tree/master/0456-132-pattern) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AnshulKumawat1/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Data Stream
 |  |
 | ------- |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/AnshulKumawat1/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
 | ------- |
