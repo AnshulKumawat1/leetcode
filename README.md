@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AnshulKumawat1/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AnshulKumawat1/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/0053-maximum-subarray) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1418-fair-distribution-of-cookies](https://github.com/AnshulKumawat1/leetcode/tree/master/1418-fair-distribution-of-cookies) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnshulKumawat1/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/0053-maximum-subarray) |
 | [0327-count-of-range-sum](https://github.com/AnshulKumawat1/leetcode/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/0493-reverse-pairs) |
 ## Segment Tree
