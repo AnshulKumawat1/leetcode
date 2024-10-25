@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AnshulKumawat1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2478-longest-nice-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshulKumawat1/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/AnshulKumawat1/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/AnshulKumawat1/leetcode/tree/master/0231-power-of-two) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/AnshulKumawat1/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Recursion
 |  |
 | ------- |
