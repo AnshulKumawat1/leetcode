@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AnshulKumawat1/leetcode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AnshulKumawat1/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnshulKumawat1/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnshulKumawat1/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AnshulKumawat1/leetcode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AnshulKumawat1/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/AnshulKumawat1/leetcode/tree/master/2213-find-all-people-with-secret) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/AnshulKumawat1/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AnshulKumawat1/leetcode/tree/master/2035-count-sub-islands) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/AnshulKumawat1/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/AnshulKumawat1/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2472-build-a-matrix-with-conditions](https://github.com/AnshulKumawat1/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
