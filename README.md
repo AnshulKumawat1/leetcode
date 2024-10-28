@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnshulKumawat1/leetcode/tree/master/0202-happy-number) |
 | [0480-sliding-window-median](https://github.com/AnshulKumawat1/leetcode/tree/master/0480-sliding-window-median) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshulKumawat1/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1447-jump-game-iv](https://github.com/AnshulKumawat1/leetcode/tree/master/1447-jump-game-iv) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/AnshulKumawat1/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshulKumawat1/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AnshulKumawat1/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AnshulKumawat1/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshulKumawat1/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/AnshulKumawat1/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1325-path-with-maximum-probability](https://github.com/AnshulKumawat1/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/AnshulKumawat1/leetcode/tree/master/1436-get-watched-videos-by-your-friends) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshulKumawat1/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/AnshulKumawat1/leetcode/tree/master/2035-count-sub-islands) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
