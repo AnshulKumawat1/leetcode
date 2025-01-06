@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshulKumawat1/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/AnshulKumawat1/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnshulKumawat1/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/AnshulKumawat1/leetcode/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/AnshulKumawat1/leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-break-a-palindrome](https://github.com/AnshulKumawat1/leetcode/tree/master/1252-break-a-palindrome) |
 | [1517-restore-the-array](https://github.com/AnshulKumawat1/leetcode/tree/master/1517-restore-the-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/AnshulKumawat1/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnshulKumawat1/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AnshulKumawat1/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshulKumawat1/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
