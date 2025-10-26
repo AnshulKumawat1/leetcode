@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnshulKumawat1/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/AnshulKumawat1/leetcode/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/AnshulKumawat1/leetcode/tree/master/2169-simple-bank-system) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/AnshulKumawat1/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/AnshulKumawat1/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/AnshulKumawat1/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AnshulKumawat1/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2169-simple-bank-system](https://github.com/AnshulKumawat1/leetcode/tree/master/2169-simple-bank-system) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AnshulKumawat1/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AnshulKumawat1/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AnshulKumawat1/leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0732-my-calendar-iii](https://github.com/AnshulKumawat1/leetcode/tree/master/0732-my-calendar-iii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnshulKumawat1/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2169-simple-bank-system](https://github.com/AnshulKumawat1/leetcode/tree/master/2169-simple-bank-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/AnshulKumawat1/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2169-simple-bank-system](https://github.com/AnshulKumawat1/leetcode/tree/master/2169-simple-bank-system) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/AnshulKumawat1/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Backtracking
 |  |
