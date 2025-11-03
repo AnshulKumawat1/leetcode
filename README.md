@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/AnshulKumawat1/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0332-reconstruct-itinerary](https://github.com/AnshulKumawat1/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/AnshulKumawat1/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/AnshulKumawat1/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/AnshulKumawat1/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0881-loud-and-rich](https://github.com/AnshulKumawat1/leetcode/tree/master/0881-loud-and-rich) |
 | [0964-minimize-malware-spread-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/0964-minimize-malware-spread-ii) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AnshulKumawat1/leetcode/tree/master/0146-lru-cache) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/AnshulKumawat1/leetcode/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
