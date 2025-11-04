@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-shortest-distance-after-road-addition-queries-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3514-shortest-distance-after-road-addition-queries-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3518-maximum-multiplication-score](https://github.com/AnshulKumawat1/leetcode/tree/master/3518-maximum-multiplication-score) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2832-find-the-longest-equal-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AnshulKumawat1/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/AnshulKumawat1/leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2832-find-the-longest-equal-subarray](https://github.com/AnshulKumawat1/leetcode/tree/master/2832-find-the-longest-equal-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/AnshulKumawat1/leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/AnshulKumawat1/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2590-maximum-star-sum-of-a-graph](https://github.com/AnshulKumawat1/leetcode/tree/master/2590-maximum-star-sum-of-a-graph) |
 | [2636-maximum-subsequence-score](https://github.com/AnshulKumawat1/leetcode/tree/master/2636-maximum-subsequence-score) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AnshulKumawat1/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
