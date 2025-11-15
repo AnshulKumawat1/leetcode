@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/AnshulKumawat1/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/AnshulKumawat1/leetcode/tree/master/0177-nth-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/AnshulKumawat1/leetcode/tree/master/0185-department-top-three-salaries) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AnshulKumawat1/leetcode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1268-market-analysis-i](https://github.com/AnshulKumawat1/leetcode/tree/master/1268-market-analysis-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/AnshulKumawat1/leetcode/tree/master/1625-group-sold-products-by-the-date) |
